@@ -2,6 +2,12 @@
   "name": "tweetnacl",
   "version": "1.0.3",
   "description": "Port of TweetNaCl cryptographic library to JavaScript",
+  "exports": {
+    ".": {
+      "import": "./nacl-fast-es6.js",
+      "require": "./nacl-fast.js"
+    }
+  },
   "main": "nacl-fast.js",
   "types": "nacl.d.ts",
   "directories": {
