@@ -1,6 +1,8 @@
 TweetNaCl.js
 ============
 
+> *Important* This is an interim and experimental fork of TweeNaCl to support both ESM and CommonJS imports simultaneously. Unless you know what you're doing, use [TweetNaCl.js](https://github.com/dchest/tweetnacl-js) instead of this library.
+
 Port of [TweetNaCl](http://tweetnacl.cr.yp.to) / [NaCl](http://nacl.cr.yp.to/)
 to JavaScript for modern browsers and Node.js. Public domain.
 

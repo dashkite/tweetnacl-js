@@ -1,5 +1,5 @@
 {
-  "name": "tweetnacl",
+  "name": "@dashkite/tweetnacl",
   "version": "1.0.3",
   "description": "Port of TweetNaCl cryptographic library to JavaScript",
   "exports": {
